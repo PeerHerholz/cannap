@@ -1,6 +1,6 @@
-==============================================================
-Neural Networks for Auditory Processing (NAP)
-==============================================================
+=================================================================================================
+Collection, Application and feature extraction from Neural Networks for Auditory Processing (CANNAP)
+=================================================================================================
 
 .. image:: https://img.shields.io/travis/peerherholz/connap.svg
         :target: https://travis-ci.org/peerherholz/connap
