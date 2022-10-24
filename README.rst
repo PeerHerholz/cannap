@@ -1,5 +1,5 @@
 ==============================================================
-Convolutional Neural Networks for Auditory Processing (CONNAP)
+Neural Networks for Auditory Processing (NAP)
 ==============================================================
 
 .. image:: https://img.shields.io/travis/peerherholz/connap.svg
