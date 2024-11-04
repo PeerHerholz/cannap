@@ -1,5 +1,5 @@
 =================================================================================================
-Collection, Application and feature extraction from Neural Networks for Auditory Processing (CANNAP)
+CONAP – a Python toolbox for the collection/application of & feature extraction from deep neural networks for auditory processing
 =================================================================================================
 
 .. image:: https://img.shields.io/travis/peerherholz/connap.svg
@@ -9,7 +9,7 @@ Collection, Application and feature extraction from Neural Networks for Auditory
         :target: https://pypi.python.org/pypi/connap
 
 
-A collection of CNNs focusing auditory processing, ready to go for neuroscientific and behavioral investigations.
+A collection of AI models focusing auditory processing, ready to go for neuroscientific, computational and behavioral investigations.
 
 * Free software: 3-clause BSD license
 * Documentation: (COMING SOON!) https://peerherholz.github.io/connap.
